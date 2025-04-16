@@ -1,4 +1,5 @@
 🦠 Prédiction des Hospitalisations COVID-19
+
 📝 Présentation
 Ce projet a pour objectif d’analyser et de prédire les hospitalisations liées au COVID-19 en France. Il s’appuie sur des données de santé publiques, avec une approche combinée entre statistique, apprentissage automatique et visualisation. Réalisé dans le cadre de mon Master 1 en Intelligence Artificielle.
 
